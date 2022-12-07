@@ -1,0 +1,257 @@
+At Time: [2022-12-07T16:23:45.294956Z]: id_peer: [1003] connected to id_peer: [1001]
+At Time: [2022-12-07T16:23:45.361839Z]: id_peer: [1003] connected to id_peer: [1002]
+At time: [2022-12-07T16:23:45.412778Z]: Peer [1003] connected after handshake to Peer [1001]
+At time: [2022-12-07T16:23:45.412961Z]: Peer [1003] connected after handshake to Peer [1002]
+Time: [2022-12-07T16:23:45.519997Z]: Peer 1003 received  ‘not-accepted’ message from 1001
+Time: [2022-12-07T16:23:45.519860Z]: Peer 1003 received  ‘not-accepted’ message from 1002
+At time: 2022-12-07T16:23:46.443474Z]: Peer- 1003 is unchoked by 1002
+At time: [2022-12-07T16:23:46.520442Z]: Peer - 1003  downloaded  piece -48 from - 1002. Tot Pieces is 1
+At time: [2022-12-07T16:23:46.640790Z]: Peer - 1003  downloaded  piece -18 from - 1002. Tot Pieces is 2
+At time: [2022-12-07T16:23:46.778516Z]: Peer - 1003  downloaded  piece -54 from - 1002. Tot Pieces is 3
+At time: [2022-12-07T16:23:46.878834Z]: Peer - 1003  downloaded  piece -0 from - 1002. Tot Pieces is 4
+At time: [2022-12-07T16:23:46.991065Z]: Peer - 1003  downloaded  piece -19 from - 1002. Tot Pieces is 5
+At time: [2022-12-07T16:23:47.070499Z]: Peer - 1003  downloaded  piece -12 from - 1002. Tot Pieces is 6
+At time: [2022-12-07T16:23:47.142912Z]: Peer - 1003  downloaded  piece -11 from - 1002. Tot Pieces is 7
+At time: [2022-12-07T16:23:47.262469Z]: Peer - 1003  downloaded  piece -63 from - 1002. Tot Pieces is 8
+At time: [2022-12-07T16:23:47.327772Z]: Peer - 1003  downloaded  piece -47 from - 1002. Tot Pieces is 9
+At time: 2022-12-07T16:23:47.328258Z]: Peer- 1003 is unchoked by 1001
+At time: [2022-12-07T16:23:47.394111Z]: Peer - 1003  downloaded  piece -8 from - 1001. Tot Pieces is 10
+At time: [2022-12-07T16:23:47.395514Z]: Peer - 1003  downloaded  piece -27 from - 1002. Tot Pieces is 11
+At time: [2022-12-07T16:23:47.472610Z]: Peer - 1003  downloaded  piece -30 from - 1001. Tot Pieces is 12
+At time: [2022-12-07T16:23:47.476613Z]: Peer - 1003  downloaded  piece -61 from - 1002. Tot Pieces is 13
+At time: [2022-12-07T16:23:47.556191Z]: Peer - 1003  downloaded  piece -26 from - 1002. Tot Pieces is 14
+At time: [2022-12-07T16:23:47.562515Z]: Peer - 1003  downloaded  piece -40 from - 1001. Tot Pieces is 15
+At time: [2022-12-07T16:23:47.654334Z]: Peer - 1003  downloaded  piece -34 from - 1001. Tot Pieces is 16
+At time: [2022-12-07T16:23:47.697657Z]: Peer - 1003  downloaded  piece -39 from - 1002. Tot Pieces is 17
+At time: [2022-12-07T16:23:47.714617Z]: Peer - 1003  downloaded  piece -25 from - 1001. Tot Pieces is 18
+At time: [2022-12-07T16:23:47.763457Z]: Peer - 1003  downloaded  piece -35 from - 1002. Tot Pieces is 19
+At time: [2022-12-07T16:23:47.776418Z]: Peer - 1003  downloaded  piece -10 from - 1001. Tot Pieces is 20
+At time: [2022-12-07T16:23:47.862067Z]: Peer - 1003  downloaded  piece -9 from - 1002. Tot Pieces is 21
+At time: [2022-12-07T16:23:47.908621Z]: Peer - 1003  downloaded  piece -50 from - 1001. Tot Pieces is 22
+At time: [2022-12-07T16:23:47.924609Z]: Peer - 1003  downloaded  piece -23 from - 1002. Tot Pieces is 23
+At time: [2022-12-07T16:23:47.981895Z]: Peer - 1003  downloaded  piece -6 from - 1001. Tot Pieces is 24
+At time: [2022-12-07T16:23:48.014154Z]: Peer - 1003  downloaded  piece -65 from - 1002. Tot Pieces is 25
+At time: [2022-12-07T16:23:48.058247Z]: Peer - 1003  downloaded  piece -60 from - 1001. Tot Pieces is 26
+At time: [2022-12-07T16:23:48.071911Z]: Peer - 1003  downloaded  piece -53 from - 1002. Tot Pieces is 27
+At time: [2022-12-07T16:23:48.139836Z]: Peer - 1003  downloaded  piece -46 from - 1001. Tot Pieces is 28
+At time: [2022-12-07T16:23:48.141041Z]: Peer - 1003  downloaded  piece -49 from - 1002. Tot Pieces is 29
+At time: [2022-12-07T16:23:48.261046Z]: Peer - 1003  downloaded  piece -22 from - 1001. Tot Pieces is 30
+At time: [2022-12-07T16:23:48.271280Z]: Peer - 1003  downloaded  piece -64 from - 1002. Tot Pieces is 31
+At time: [2022-12-07T16:23:48.352184Z]: Peer - 1003  downloaded  piece -45 from - 1001. Tot Pieces is 32
+At time: [2022-12-07T16:23:48.354101Z]: Peer - 1003  downloaded  piece -2 from - 1002. Tot Pieces is 33
+At time: [2022-12-07T16:23:48.428373Z]: Peer - 1003  downloaded  piece -16 from - 1001. Tot Pieces is 34
+At time: [2022-12-07T16:23:48.437585Z]: Peer - 1003  downloaded  piece -17 from - 1002. Tot Pieces is 35
+At time: [2022-12-07T16:23:48.500851Z]: Peer - 1003  downloaded  piece -13 from - 1002. Tot Pieces is 36
+At time: [2022-12-07T16:23:48.514980Z]: Peer - 1003  downloaded  piece -28 from - 1001. Tot Pieces is 37
+At time: [2022-12-07T16:23:48.562791Z]: Peer - 1003  downloaded  piece -55 from - 1002. Tot Pieces is 38
+At time: [2022-12-07T16:23:48.580261Z]: Peer - 1003  downloaded  piece -56 from - 1001. Tot Pieces is 39
+At time: [2022-12-07T16:23:48.626805Z]: Peer - 1003  downloaded  piece -5 from - 1002. Tot Pieces is 40
+At time: [2022-12-07T16:23:48.665238Z]: Peer - 1003  downloaded  piece -1 from - 1001. Tot Pieces is 41
+At time: [2022-12-07T16:23:48.700779Z]: Peer - 1003  downloaded  piece -58 from - 1002. Tot Pieces is 42
+At time: [2022-12-07T16:23:48.752598Z]: Peer - 1003  downloaded  piece -4 from - 1001. Tot Pieces is 43
+At time: [2022-12-07T16:23:48.767557Z]: Peer - 1003  downloaded  piece -51 from - 1002. Tot Pieces is 44
+At time: [2022-12-07T16:23:48.831423Z]: Peer - 1003  downloaded  piece -20 from - 1002. Tot Pieces is 45
+At time: [2022-12-07T16:23:48.834143Z]: Peer - 1003  downloaded  piece -57 from - 1001. Tot Pieces is 46
+At time: [2022-12-07T16:23:48.887736Z]: Peer - 1003  downloaded  piece -52 from - 1002. Tot Pieces is 47
+At time: [2022-12-07T16:23:48.893448Z]: Peer - 1003  downloaded  piece -32 from - 1001. Tot Pieces is 48
+At time: [2022-12-07T16:23:48.974511Z]: Peer - 1003  downloaded  piece -31 from - 1001. Tot Pieces is 49
+At time: [2022-12-07T16:23:48.975635Z]: Peer - 1003  downloaded  piece -15 from - 1002. Tot Pieces is 50
+At time: [2022-12-07T16:23:49.032204Z]: Peer - 1003  downloaded  piece -43 from - 1002. Tot Pieces is 51
+At time: [2022-12-07T16:23:49.033174Z]: Peer - 1003  downloaded  piece -43 from - 1001. Tot Pieces is 52
+At time: [2022-12-07T16:23:49.121257Z]: Peer - 1003  downloaded  piece -24 from - 1002. Tot Pieces is 52
+At time: [2022-12-07T16:23:49.122618Z]: Peer - 1003  downloaded  piece -42 from - 1001. Tot Pieces is 53
+At time: [2022-12-07T16:23:49.188481Z]: Peer - 1003  downloaded  piece -66 from - 1001. Tot Pieces is 54
+At time: [2022-12-07T16:23:49.182468Z]: Peer - 1003  downloaded  piece -37 from - 1002. Tot Pieces is 55
+At time: [2022-12-07T16:23:49.293800Z]: Peer - 1003  downloaded  piece -3 from - 1002. Tot Pieces is 56
+At time: [2022-12-07T16:23:49.310033Z]: Peer - 1003  downloaded  piece -41 from - 1001. Tot Pieces is 57
+At time: [2022-12-07T16:23:49.387946Z]: Peer - 1003  downloaded  piece -29 from - 1001. Tot Pieces is 58
+At time: [2022-12-07T16:23:49.402547Z]: Peer - 1003  downloaded  piece -38 from - 1002. Tot Pieces is 59
+At time: [2022-12-07T16:23:49.447640Z]: Peer - 1003  downloaded  piece -14 from - 1001. Tot Pieces is 60
+At time: [2022-12-07T16:23:49.513937Z]: Peer - 1003  downloaded  piece -7 from - 1002. Tot Pieces is 61
+At time: [2022-12-07T16:23:49.528604Z]: Peer - 1003  downloaded  piece -59 from - 1001. Tot Pieces is 62
+At time: [2022-12-07T16:23:49.574556Z]: Peer - 1003  downloaded  piece -44 from - 1002. Tot Pieces is 63
+At time: [2022-12-07T16:23:49.637580Z]: Peer - 1003  downloaded  piece -33 from - 1001. Tot Pieces is 64
+At time: [2022-12-07T16:23:49.640202Z]: Peer - 1003  downloaded  piece -36 from - 1002. Tot Pieces is 65
+At time: [2022-12-07T16:23:49.769528Z]: Peer - 1003  downloaded  piece -62 from - 1001. Tot Pieces is 66
+At time: [2022-12-07T16:23:49.769416Z]: Peer - 1003  downloaded  piece -21 from - 1002. Tot Pieces is 66
+At time:[2022-12-07T16:23:49.783914Z]: Peer 1003  downloaded  complete file
+At time: [2022-12-07T16:23:50.230817Z]: Peer [1003] connected after handshake to Peer [1004]
+At time: [2022-12-07T16:23:50.513655Z]: Peer- 1003 received msg - ‘accepted’ from 1004
+[2022-12-07T16:23:51.369791Z]: Peer [1003] is Ckd by [1002]
+At time: [2022-12-07T16:23:51.478677Z]: the list of preferred neighbours of PeerID [1003] is [1004, ]
+Time: [2022-12-07T16:23:51.705648Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 4
+Time: [2022-12-07T16:23:51.714499Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 44
+Time: [2022-12-07T16:23:51.849099Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 39
+Time: [2022-12-07T16:23:51.860630Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 24
+Time: [2022-12-07T16:23:51.956852Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 42
+Time: [2022-12-07T16:23:51.966663Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 65
+Time: [2022-12-07T16:23:52.042853Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 62
+Time: [2022-12-07T16:23:52.064530Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 52
+Time: [2022-12-07T16:23:52.145804Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 43
+Time: [2022-12-07T16:23:52.195057Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 49
+Time: [2022-12-07T16:23:52.261192Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 0
+Time: [2022-12-07T16:23:52.265749Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 5
+[2022-12-07T16:23:52.314499Z]: Peer [1003] is Ckd by [1001]
+Time: [2022-12-07T16:23:52.315505Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 35
+Time: [2022-12-07T16:23:52.360158Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 20
+Time: [2022-12-07T16:23:52.441314Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 46
+Time: [2022-12-07T16:23:52.441350Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 1
+At time [2022-12-07T16:23:52.481167Z]: list of Optimistic unchoked neighbors for PeerID [1003] is []
+Time: [2022-12-07T16:23:52.495491Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 21
+Time: [2022-12-07T16:23:52.552297Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 27
+Time: [2022-12-07T16:23:52.552380Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 19
+Time: [2022-12-07T16:23:52.570723Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 56
+Time: [2022-12-07T16:23:52.600138Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 53
+Time: [2022-12-07T16:23:52.702783Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 30
+Time: [2022-12-07T16:23:52.709148Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 60
+Time: [2022-12-07T16:23:52.709243Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 16
+Time: [2022-12-07T16:23:52.764874Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 2
+Time: [2022-12-07T16:23:52.769940Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 22
+Time: [2022-12-07T16:23:52.806043Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 7
+Time: [2022-12-07T16:23:52.905514Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 63
+Time: [2022-12-07T16:23:52.905604Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 18
+Time: [2022-12-07T16:23:52.917300Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 14
+Time: [2022-12-07T16:23:52.959724Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 58
+Time: [2022-12-07T16:23:52.971309Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 55
+Time: [2022-12-07T16:23:53.013259Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 23
+Time: [2022-12-07T16:23:53.028002Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 34
+Time: [2022-12-07T16:23:53.072786Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 32
+Time: [2022-12-07T16:23:53.128122Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 61
+Time: [2022-12-07T16:23:53.154105Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 25
+Time: [2022-12-07T16:23:53.159876Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 59
+Time: [2022-12-07T16:23:53.192259Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 37
+Time: [2022-12-07T16:23:53.204772Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 57
+Time: [2022-12-07T16:23:53.285971Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 13
+Time: [2022-12-07T16:23:53.286140Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 8
+Time: [2022-12-07T16:23:53.286204Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 12
+Time: [2022-12-07T16:23:53.351211Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 29
+Time: [2022-12-07T16:23:53.388693Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 45
+Time: [2022-12-07T16:23:53.388728Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 15
+Time: [2022-12-07T16:23:53.390677Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 54
+Time: [2022-12-07T16:23:53.427182Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 28
+Time: [2022-12-07T16:23:53.469793Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 17
+Time: [2022-12-07T16:23:53.476270Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 6
+Time: [2022-12-07T16:23:53.483634Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 10
+Time: [2022-12-07T16:23:53.575753Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 11
+Time: [2022-12-07T16:23:53.582833Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 66
+Time: [2022-12-07T16:23:53.582965Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 50
+Time: [2022-12-07T16:23:53.640107Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 64
+Time: [2022-12-07T16:23:53.644151Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 33
+Time: [2022-12-07T16:23:53.669844Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 41
+Time: [2022-12-07T16:23:53.742302Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 51
+Time: [2022-12-07T16:23:53.742329Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 40
+Time: [2022-12-07T16:23:53.805477Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 47
+Time: [2022-12-07T16:23:53.805628Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 9
+Time: [2022-12-07T16:23:53.819642Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 26
+Time: [2022-12-07T16:23:53.851156Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 48
+Time: [2022-12-07T16:23:53.890634Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 3
+Time: [2022-12-07T16:23:53.892566Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 38
+Time: [2022-12-07T16:23:53.940473Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 36
+Time: [2022-12-07T16:23:54.036664Z]: Peer 1003 received  ‘have’ message from 1004 for  piece: 31
+Time: [2022-12-07T16:23:54.046631Z]: Peer 1003 received  ‘not-accepted’ message from 1004
+At time: [2022-12-07T16:23:55.115879Z]: Peer [1003] connected after handshake to Peer [1005]
+At time: [2022-12-07T16:23:55.245450Z]: Peer- 1003 received msg - ‘accepted’ from 1005
+Time: [2022-12-07T16:23:55.658784Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 45
+Time: [2022-12-07T16:23:55.783164Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 4
+Time: [2022-12-07T16:23:56.085794Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 51
+Time: [2022-12-07T16:23:56.214228Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 0
+Time: [2022-12-07T16:23:56.412790Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 25
+At time: [2022-12-07T16:23:56.430454Z]: the list of preferred neighbours of PeerID [1003] is [1005, ]
+Time: [2022-12-07T16:23:56.502956Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 62
+Time: [2022-12-07T16:23:56.543107Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 3
+Time: [2022-12-07T16:23:56.556617Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 44
+Time: [2022-12-07T16:23:56.593246Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 49
+Time: [2022-12-07T16:23:56.646109Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 37
+Time: [2022-12-07T16:23:56.691832Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 6
+Time: [2022-12-07T16:23:56.797240Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 24
+Time: [2022-12-07T16:23:56.817339Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 55
+Time: [2022-12-07T16:23:56.918670Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 42
+Time: [2022-12-07T16:23:56.975537Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 15
+Time: [2022-12-07T16:23:56.975808Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 16
+Time: [2022-12-07T16:23:56.975831Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 42
+Time: [2022-12-07T16:23:57.072857Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 13
+Time: [2022-12-07T16:23:57.119275Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 9
+Time: [2022-12-07T16:23:57.358095Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 64
+Time: [2022-12-07T16:23:57.358391Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 52
+Time: [2022-12-07T16:23:57.401830Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 14
+Time: [2022-12-07T16:23:57.401904Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 32
+Time: [2022-12-07T16:23:57.506015Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 34
+Time: [2022-12-07T16:23:57.577573Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 5
+Time: [2022-12-07T16:23:57.577675Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 56
+Time: [2022-12-07T16:23:57.619601Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 61
+Time: [2022-12-07T16:23:57.623487Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 54
+Time: [2022-12-07T16:23:57.625708Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 33
+Time: [2022-12-07T16:23:57.691507Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 29
+Time: [2022-12-07T16:23:57.693707Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 19
+Time: [2022-12-07T16:23:57.773375Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 63
+Time: [2022-12-07T16:23:57.818748Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 29
+Time: [2022-12-07T16:23:57.884591Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 23
+Time: [2022-12-07T16:23:57.910575Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 26
+Time: [2022-12-07T16:23:57.979182Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 65
+Time: [2022-12-07T16:23:57.979794Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 2
+Time: [2022-12-07T16:23:58.105946Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 57
+Time: [2022-12-07T16:23:58.172168Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 48
+Time: [2022-12-07T16:23:58.223318Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 35
+At time: [2022-12-07T16:23:58.275674Z]: Peer [1003] connected after handshake to Peer [1006]
+Time: [2022-12-07T16:23:58.398636Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 35
+Time: [2022-12-07T16:23:58.398702Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 40
+Time: [2022-12-07T16:23:58.517871Z]: Peer 1003 received  ‘not-accepted’ message from 1006
+Time: [2022-12-07T16:23:58.611088Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 11
+Time: [2022-12-07T16:23:58.897454Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 53
+Time: [2022-12-07T16:23:58.977696Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 47
+Time: [2022-12-07T16:23:59.069741Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 22
+Time: [2022-12-07T16:23:59.239345Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 12
+Time: [2022-12-07T16:23:59.371957Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 18
+Time: [2022-12-07T16:23:59.417057Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 28
+Time: [2022-12-07T16:23:59.607236Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 1
+Time: [2022-12-07T16:23:59.820805Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 66
+Time: [2022-12-07T16:23:59.830322Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 60
+Time: [2022-12-07T16:23:59.918204Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 8
+Time: [2022-12-07T16:23:59.995014Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 36
+Time: [2022-12-07T16:24:00.007740Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 39
+Time: [2022-12-07T16:24:00.212489Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 10
+Time: [2022-12-07T16:24:00.212563Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 58
+Time: [2022-12-07T16:24:00.348500Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 43
+Time: [2022-12-07T16:24:00.365529Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 46
+Time: [2022-12-07T16:24:00.426310Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 17
+Time: [2022-12-07T16:24:00.729865Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 41
+Time: [2022-12-07T16:24:00.729943Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 41
+Time: [2022-12-07T16:24:00.868361Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 31
+Time: [2022-12-07T16:24:00.908989Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 27
+Time: [2022-12-07T16:24:01.086226Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 20
+Time: [2022-12-07T16:24:01.097136Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 38
+Time: [2022-12-07T16:24:01.246070Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 7
+Time: [2022-12-07T16:24:01.246168Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 30
+At time: [2022-12-07T16:24:01.426738Z]: the list of preferred neighbours of PeerID [1003] is [1005, ]
+Time: [2022-12-07T16:24:01.666931Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 21
+At time [2022-12-07T16:24:02.451995Z]: list of Optimistic unchoked neighbors for PeerID [1003] is []
+Time: [2022-12-07T16:24:05.842505Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 50
+At time: [2022-12-07T16:24:06.428271Z]: the list of preferred neighbours of PeerID [1003] is [1005, ]
+Time: [2022-12-07T16:24:06.630876Z]: Peer 1003 received  ‘have’ message from 1005 for  piece: 59
+Time: [2022-12-07T16:24:06.632399Z]: Peer 1003 received  ‘not-accepted’ message from 1005
+At time: [2022-12-07T16:24:11.429492Z]: the list of preferred neighbours of PeerID [1003] is []
+At time [2022-12-07T16:24:12.456505Z]: list of Optimistic unchoked neighbors for PeerID [1003] is []
+At time: [2022-12-07T16:24:16.427834Z]: the list of preferred neighbours of PeerID [1003] is []
+At time: [2022-12-07T16:24:21.425197Z]: the list of preferred neighbours of PeerID [1003] is []
+At time [2022-12-07T16:24:22.456727Z]: list of Optimistic unchoked neighbors for PeerID [1003] is []
+At time: [2022-12-07T16:24:26.430304Z]: the list of preferred neighbours of PeerID [1003] is []
+At time: [2022-12-07T16:24:31.429284Z]: the list of preferred neighbours of PeerID [1003] is []
+At time [2022-12-07T16:24:32.452346Z]: list of Optimistic unchoked neighbors for PeerID [1003] is []
+At time: [2022-12-07T16:24:36.430136Z]: the list of preferred neighbours of PeerID [1003] is []
+At time: [2022-12-07T16:24:41.426775Z]: the list of preferred neighbours of PeerID [1003] is []
+At time [2022-12-07T16:24:42.454760Z]: list of Optimistic unchoked neighbors for PeerID [1003] is []
+At time: [2022-12-07T16:24:46.428620Z]: the list of preferred neighbours of PeerID [1003] is []
+At time: [2022-12-07T16:24:51.430290Z]: the list of preferred neighbours of PeerID [1003] is []
+At time [2022-12-07T16:24:52.457703Z]: list of Optimistic unchoked neighbors for PeerID [1003] is []
+At time: [2022-12-07T16:24:56.429205Z]: the list of preferred neighbours of PeerID [1003] is []
+At time: [2022-12-07T16:25:01.427800Z]: the list of preferred neighbours of PeerID [1003] is []
+At time [2022-12-07T16:25:02.454097Z]: list of Optimistic unchoked neighbors for PeerID [1003] is []
+At time: [2022-12-07T16:25:06.427568Z]: the list of preferred neighbours of PeerID [1003] is []
+At time: [2022-12-07T16:25:11.430883Z]: the list of preferred neighbours of PeerID [1003] is []
+At time [2022-12-07T16:25:12.458057Z]: list of Optimistic unchoked neighbors for PeerID [1003] is []
+At time: [2022-12-07T16:25:16.426565Z]: the list of preferred neighbours of PeerID [1003] is []
+At time: [2022-12-07T16:25:21.427747Z]: the list of preferred neighbours of PeerID [1003] is []
+At time [2022-12-07T16:25:22.458676Z]: list of Optimistic unchoked neighbors for PeerID [1003] is []
+At time: [2022-12-07T16:25:26.430235Z]: the list of preferred neighbours of PeerID [1003] is []
+At time: [2022-12-07T16:25:31.431390Z]: the list of preferred neighbours of PeerID [1003] is []
+At time [2022-12-07T16:25:32.453994Z]: list of Optimistic unchoked neighbors for PeerID [1003] is []

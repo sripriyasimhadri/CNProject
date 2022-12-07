@@ -1,0 +1,112 @@
+At Time: [2022-12-07T16:23:55.025786Z]: id_peer: [1005] connected to id_peer: [1001]
+At Time: [2022-12-07T16:23:55.089216Z]: id_peer: [1005] connected to id_peer: [1002]
+At Time: [2022-12-07T16:23:55.101847Z]: id_peer: [1005] connected to id_peer: [1003]
+At Time: [2022-12-07T16:23:55.116895Z]: id_peer: [1005] connected to id_peer: [1004]
+At time: [2022-12-07T16:23:55.154483Z]: Peer [1005] connected after handshake to Peer [1003]
+At time: [2022-12-07T16:23:55.155523Z]: Peer [1005] connected after handshake to Peer [1004]
+At time: [2022-12-07T16:23:55.155939Z]: Peer [1005] connected after handshake to Peer [1001]
+At time: [2022-12-07T16:23:55.156562Z]: Peer [1005] connected after handshake to Peer [1002]
+Time: [2022-12-07T16:23:55.228615Z]: Peer 1005 received  ‘not-accepted’ message from 1002
+Time: [2022-12-07T16:23:55.226723Z]: Peer 1005 received  ‘not-accepted’ message from 1004
+Time: [2022-12-07T16:23:55.246843Z]: Peer 1005 received  ‘not-accepted’ message from 1003
+Time: [2022-12-07T16:23:55.339887Z]: Peer 1005 received  ‘not-accepted’ message from 1001
+At time: 2022-12-07T16:23:55.405928Z]: Peer- 1005 is unchoked by 1004
+At time: [2022-12-07T16:23:55.518285Z]: Peer - 1005  downloaded  piece -45 from - 1004. Tot Pieces is 1
+At time: [2022-12-07T16:23:55.748046Z]: Peer - 1005  downloaded  piece -4 from - 1004. Tot Pieces is 2
+At time: [2022-12-07T16:23:56.030663Z]: Peer - 1005  downloaded  piece -51 from - 1004. Tot Pieces is 3
+At time: [2022-12-07T16:23:56.198661Z]: Peer - 1005  downloaded  piece -0 from - 1004. Tot Pieces is 4
+At time: 2022-12-07T16:23:56.375545Z]: Peer- 1005 is unchoked by 1002
+At time: [2022-12-07T16:23:56.411398Z]: Peer - 1005  downloaded  piece -25 from - 1004. Tot Pieces is 5
+At time: 2022-12-07T16:23:56.446157Z]: Peer- 1005 is unchoked by 1003
+At time: [2022-12-07T16:23:56.473666Z]: Peer - 1005  downloaded  piece -62 from - 1002. Tot Pieces is 6
+At time: [2022-12-07T16:23:56.517700Z]: Peer - 1005  downloaded  piece -3 from - 1003. Tot Pieces is 7
+At time: [2022-12-07T16:23:56.549318Z]: Peer - 1005  downloaded  piece -44 from - 1004. Tot Pieces is 8
+At time: [2022-12-07T16:23:56.592362Z]: Peer - 1005  downloaded  piece -49 from - 1003. Tot Pieces is 9
+At time: [2022-12-07T16:23:56.635542Z]: Peer - 1005  downloaded  piece -37 from - 1002. Tot Pieces is 10
+At time: [2022-12-07T16:23:56.678230Z]: Peer - 1005  downloaded  piece -6 from - 1003. Tot Pieces is 11
+At time: [2022-12-07T16:23:56.709320Z]: Peer - 1005  downloaded  piece -24 from - 1002. Tot Pieces is 12
+At time: [2022-12-07T16:23:56.783403Z]: Peer - 1005  downloaded  piece -55 from - 1003. Tot Pieces is 13
+At time: [2022-12-07T16:23:56.784971Z]: Peer - 1005  downloaded  piece -42 from - 1004. Tot Pieces is 14
+At time: [2022-12-07T16:23:56.914994Z]: Peer - 1005  downloaded  piece -15 from - 1002. Tot Pieces is 15
+At time: [2022-12-07T16:23:56.918874Z]: Peer - 1005  downloaded  piece -16 from - 1003. Tot Pieces is 15
+At time: [2022-12-07T16:23:56.959480Z]: Peer - 1005  downloaded  piece -42 from - 1004. Tot Pieces is 17
+At time: [2022-12-07T16:23:57.038759Z]: Peer - 1005  downloaded  piece -13 from - 1002. Tot Pieces is 17
+At time: [2022-12-07T16:23:57.106201Z]: Peer - 1005  downloaded  piece -9 from - 1003. Tot Pieces is 18
+At time: [2022-12-07T16:23:57.218302Z]: Peer - 1005  downloaded  piece -64 from - 1002. Tot Pieces is 19
+At time: 2022-12-07T16:23:57.307357Z]: Peer- 1005 is unchoked by 1001
+At time: [2022-12-07T16:23:57.323946Z]: Peer - 1005  downloaded  piece -52 from - 1002. Tot Pieces is 20
+At time: [2022-12-07T16:23:57.352408Z]: Peer - 1005  downloaded  piece -32 from - 1001. Tot Pieces is 21
+At time: [2022-12-07T16:23:57.373116Z]: Peer - 1005  downloaded  piece -14 from - 1003. Tot Pieces is 22
+At time: [2022-12-07T16:23:57.471165Z]: Peer - 1005  downloaded  piece -34 from - 1002. Tot Pieces is 23
+At time: [2022-12-07T16:23:57.512196Z]: Peer - 1005  downloaded  piece -5 from - 1003. Tot Pieces is 24
+At time: [2022-12-07T16:23:57.525646Z]: Peer - 1005  downloaded  piece -56 from - 1001. Tot Pieces is 25
+At time: [2022-12-07T16:23:57.577252Z]: Peer - 1005  downloaded  piece -61 from - 1002. Tot Pieces is 26
+At time: [2022-12-07T16:23:57.611666Z]: Peer - 1005  downloaded  piece -54 from - 1001. Tot Pieces is 27
+At time: [2022-12-07T16:23:57.613752Z]: Peer - 1005  downloaded  piece -33 from - 1003. Tot Pieces is 28
+At time: [2022-12-07T16:23:57.657857Z]: Peer - 1005  downloaded  piece -29 from - 1002. Tot Pieces is 29
+At time: [2022-12-07T16:23:57.675071Z]: Peer - 1005  downloaded  piece -19 from - 1001. Tot Pieces is 30
+At time: [2022-12-07T16:23:57.717759Z]: Peer - 1005  downloaded  piece -63 from - 1003. Tot Pieces is 31
+At time: [2022-12-07T16:23:57.739390Z]: Peer - 1005  downloaded  piece -29 from - 1002. Tot Pieces is 32
+At time: [2022-12-07T16:23:57.836406Z]: Peer - 1005  downloaded  piece -23 from - 1001. Tot Pieces is 32
+At time: [2022-12-07T16:23:57.907054Z]: Peer - 1005  downloaded  piece -26 from - 1003. Tot Pieces is 33
+At time: [2022-12-07T16:23:57.950920Z]: Peer - 1005  downloaded  piece -65 from - 1001. Tot Pieces is 34
+At time: [2022-12-07T16:23:57.979292Z]: Peer - 1005  downloaded  piece -2 from - 1003. Tot Pieces is 35
+At time: [2022-12-07T16:23:58.096318Z]: Peer - 1005  downloaded  piece -48 from - 1001. Tot Pieces is 36
+At time: [2022-12-07T16:23:58.096614Z]: Peer - 1005  downloaded  piece -57 from - 1003. Tot Pieces is 37
+At time: [2022-12-07T16:23:58.206389Z]: Peer - 1005  downloaded  piece -35 from - 1003. Tot Pieces is 38
+At time: [2022-12-07T16:23:58.311753Z]: Peer - 1005  downloaded  piece -35 from - 1003. Tot Pieces is 39
+At time: [2022-12-07T16:23:58.376820Z]: Peer - 1005  downloaded  piece -40 from - 1001. Tot Pieces is 39
+At time: [2022-12-07T16:23:58.484258Z]: Peer [1005] connected after handshake to Peer [1006]
+Time: [2022-12-07T16:23:58.526613Z]: Peer 1005 received  ‘not-accepted’ message from 1006
+At time: [2022-12-07T16:23:58.604186Z]: Peer - 1005  downloaded  piece -11 from - 1001. Tot Pieces is 40
+At time: [2022-12-07T16:23:58.895085Z]: Peer - 1005  downloaded  piece -53 from - 1001. Tot Pieces is 41
+At time: [2022-12-07T16:23:58.955128Z]: Peer - 1005  downloaded  piece -47 from - 1001. Tot Pieces is 42
+At time: [2022-12-07T16:23:59.018628Z]: Peer - 1005  downloaded  piece -22 from - 1001. Tot Pieces is 43
+At time: [2022-12-07T16:23:59.143668Z]: Peer - 1005  downloaded  piece -12 from - 1001. Tot Pieces is 44
+At time: [2022-12-07T16:23:59.312979Z]: Peer - 1005  downloaded  piece -18 from - 1001. Tot Pieces is 45
+At time: [2022-12-07T16:23:59.405586Z]: Peer - 1005  downloaded  piece -28 from - 1001. Tot Pieces is 46
+At time: [2022-12-07T16:23:59.577983Z]: Peer - 1005  downloaded  piece -1 from - 1001. Tot Pieces is 47
+At time: 2022-12-07T16:23:59.667538Z]: Peer- 1005 is unchoked by 1006
+At time: [2022-12-07T16:23:59.723252Z]: Peer - 1005  downloaded  piece -66 from - 1001. Tot Pieces is 48
+At time: [2022-12-07T16:23:59.792868Z]: Peer - 1005  downloaded  piece -60 from - 1006. Tot Pieces is 49
+At time: [2022-12-07T16:23:59.842976Z]: Peer - 1005  downloaded  piece -8 from - 1001. Tot Pieces is 50
+At time: [2022-12-07T16:23:59.934774Z]: Peer - 1005  downloaded  piece -36 from - 1006. Tot Pieces is 51
+At time: [2022-12-07T16:23:59.999559Z]: Peer - 1005  downloaded  piece -39 from - 1001. Tot Pieces is 52
+At time: [2022-12-07T16:24:00.147782Z]: Peer - 1005  downloaded  piece -10 from - 1001. Tot Pieces is 53
+At time: [2022-12-07T16:24:00.194831Z]: Peer - 1005  downloaded  piece -58 from - 1006. Tot Pieces is 54
+[2022-12-07T16:24:00.259726Z]: Peer [1005] is Ckd by [1004]
+At time: 2022-12-07T16:24:00.264033Z]: Peer- 1005 is unchoked by 1004
+At time: [2022-12-07T16:24:00.281092Z]: Peer - 1005  downloaded  piece -43 from - 1001. Tot Pieces is 55
+At time: [2022-12-07T16:24:00.347710Z]: Peer - 1005  downloaded  piece -46 from - 1006. Tot Pieces is 56
+At time: [2022-12-07T16:24:00.408164Z]: Peer - 1005  downloaded  piece -17 from - 1001. Tot Pieces is 57
+At time: [2022-12-07T16:24:00.690432Z]: Peer - 1005  downloaded  piece -41 from - 1001. Tot Pieces is 58
+At time: [2022-12-07T16:24:00.691848Z]: Peer - 1005  downloaded  piece -41 from - 1006. Tot Pieces is 59
+At time: [2022-12-07T16:24:00.837409Z]: Peer - 1005  downloaded  piece -31 from - 1001. Tot Pieces is 59
+At time: [2022-12-07T16:24:00.881303Z]: Peer - 1005  downloaded  piece -27 from - 1006. Tot Pieces is 60
+At time: [2022-12-07T16:24:01.047787Z]: Peer - 1005  downloaded  piece -38 from - 1006. Tot Pieces is 61
+At time: [2022-12-07T16:24:01.055134Z]: Peer - 1005  downloaded  piece -20 from - 1001. Tot Pieces is 62
+At time: [2022-12-07T16:24:01.200713Z]: Peer - 1005  downloaded  piece -7 from - 1006. Tot Pieces is 63
+At time: [2022-12-07T16:24:01.206349Z]: Peer - 1005  downloaded  piece -30 from - 1001. Tot Pieces is 64
+[2022-12-07T16:24:01.355120Z]: Peer [1005] is Ckd by [1002]
+[2022-12-07T16:24:01.428301Z]: Peer [1005] is Ckd by [1003]
+At time: 2022-12-07T16:24:01.433772Z]: Peer- 1005 is unchoked by 1003
+At time: 2022-12-07T16:24:01.435658Z]: Peer- 1005 is unchoked by 1002
+At time: [2022-12-07T16:24:01.648941Z]: Peer - 1005  downloaded  piece -21 from - 1003. Tot Pieces is 65
+[2022-12-07T16:24:02.339966Z]: Peer [1005] is Ckd by [1001]
+At time: 2022-12-07T16:24:02.525038Z]: Peer- 1005 is unchoked by 1001
+[2022-12-07T16:24:04.520515Z]: Peer [1005] is Ckd by [1006]
+At time: 2022-12-07T16:24:04.598628Z]: Peer- 1005 is unchoked by 1006
+[2022-12-07T16:24:05.316460Z]: Peer [1005] is Ckd by [1004]
+At time: 2022-12-07T16:24:05.380516Z]: Peer- 1005 is unchoked by 1004
+At time: [2022-12-07T16:24:05.763715Z]: Peer - 1005  downloaded  piece -50 from - 1004. Tot Pieces is 66
+[2022-12-07T16:24:06.390692Z]: Peer [1005] is Ckd by [1002]
+At time: 2022-12-07T16:24:06.391405Z]: Peer- 1005 is unchoked by 1002
+[2022-12-07T16:24:06.445813Z]: Peer [1005] is Ckd by [1003]
+At time: 2022-12-07T16:24:06.446926Z]: Peer- 1005 is unchoked by 1003
+At time: [2022-12-07T16:24:06.511287Z]: Peer - 1005  downloaded  piece -59 from - 1002. Tot Pieces is 67
+At time:[2022-12-07T16:24:06.630303Z]: Peer 1005  downloaded  complete file
+[2022-12-07T16:24:07.340252Z]: Peer [1005] is Ckd by [1001]
+[2022-12-07T16:24:09.508368Z]: Peer [1005] is Ckd by [1006]
+[2022-12-07T16:24:10.309050Z]: Peer [1005] is Ckd by [1004]
+[2022-12-07T16:24:11.354922Z]: Peer [1005] is Ckd by [1002]
+[2022-12-07T16:24:11.466360Z]: Peer [1005] is Ckd by [1003]
